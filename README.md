@@ -28,7 +28,3 @@ I specialize in data engineering and technology solutions, with a focus on deliv
 ## 🔗 Connect
 
 Feel free to explore my repositories and reach out for professional collaborations or opportunities.
-
----
-
-*Professional • Reliable • Results-Driven* 
